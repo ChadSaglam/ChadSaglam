@@ -2,7 +2,7 @@
 
 Data & ML Engineer in Zurich. I build data pipelines, then fine-tune and evaluate small models on top of them, and I report what doesn't work as well as what does.
 
-10+ years in software engineering, 4+ in applied ML. MSc Computer Engineering, BSc Physics.
+10+ years in software engineering, 4+ in applied ML. MSc Information Technologies, BSc Physics.
 
 ## Featured projects
 
